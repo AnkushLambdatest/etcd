@@ -7,4 +7,4 @@ preRun:
 postMerge:
   pattern:
     - "./**/*_test.go"
-#test
+#test2
